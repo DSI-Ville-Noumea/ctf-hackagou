@@ -36,3 +36,9 @@ echo -n toto | md5sum
 ```
 echo -n Y3RmLWhhY2thZ291 | base64 -d
 ```
+
+
+## Entrainements
+
+* [picoCTf](https://picoctf.org/)
+* [pwn.college](https://pwn.college/dojos)
